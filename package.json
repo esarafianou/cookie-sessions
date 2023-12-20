@@ -24,6 +24,6 @@
     }
   ],
   "dependencies": {
-    "auth0-magic": "1.0.3"
+    "auth0-magic": "4.0.0"
   }
 }
